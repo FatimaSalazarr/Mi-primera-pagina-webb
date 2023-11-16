@@ -1,0 +1,62 @@
+body{
+    background-color:#ffa9e1;
+    color:#c353a6;
+    font-family:'Dosis', sans-serif;
+}
+    
+
+    h1, p{
+        color:#323465;
+    }
+
+    h3{
+        color:#6e3f85;
+    }
+
+   .img1{
+        width: 350px; /*el width es el ancho*/
+        height: 290px;
+        border-style:solid;
+        border-color: black;
+        border-width: 5px;
+        margin-left: 100px;
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+
+    .img2{
+        width: 300px; /*el width es el ancho*/
+        height: 290px;
+        border-style:solid;
+        border-color:black;
+        border-width: 5px;
+        margin-left: 100px;
+    
+    }
+
+    footer{
+        background-color: aliceblue;
+        
+    }
+    small a{
+        padding-bottom: 60px;
+        
+    }
+
+    
+
+
+    /*asi se ponen los comments aqui
+    
+    OJO CUANDO VAYAS A CAMBIAR LA LETRA H OCUPAS CERRAR EL BODY
+    
+    paleta de colores https://mybrandnewlogo.com/es/generador-de-paleta-de-colores
+    .color1 {color: #323465;}
+   .color2 {color: #6e3f85;}
+   .color3 {color: #c353a6;}
+   .color4 {color: #ff78c6;}
+   .color5 {color: #ffa9e1;}*/
+    
+
+    
+    
